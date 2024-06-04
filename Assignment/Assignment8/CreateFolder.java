@@ -1,4 +1,4 @@
-Write a java program to create a folder.
+//Write a java program to create a folder.
 import java.io.File;
 import static java.lang.System.out;
 import java.io.IOException;

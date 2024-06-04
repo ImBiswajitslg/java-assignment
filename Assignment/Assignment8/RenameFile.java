@@ -1,4 +1,4 @@
-Write a java program to rename a file.
+//Write a java program to rename a file.
 import java.io.File;
 import static java.lang.System.out;
 import java.io.IOException;
